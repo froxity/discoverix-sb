@@ -1,0 +1,37 @@
+// Last Template Update
+// Name: Anwar bin Ridzwan
+// Date: 21/03/2022
+
+// Last Modify Update
+// Name: Ahmad Afiq Bin Azmi
+// Date: X/04/2022
+
+// NOTE: Remember to replace the this file name to the name of your project!!
+
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    // Editor Settings
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "[markdown]": {
+      "files.trimTrailingWhitespace": false
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+    // Files Settings
+    "files.eol": "\n",
+    "files.encoding": "utf8",
+    // Markdown Styles: Using Bootstrap v5.1.3
+    "markdown.styles": [
+      "./.workspace/markdown/markdown_style/bootstrap.min.css"
+    ],
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.scrollPreviewWithEditor": true
+  }
+}
