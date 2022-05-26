@@ -6,6 +6,8 @@ During my free time, my target is to learn some web development such as **Django
 
 This is my personal log what I've learn so far during working at Discoverix Sdn Bhd. Writing here so I don't forget.
 
+Since May 2022, I started to be involve in network infrastructure and devops operation. So currently I more likely to learn in **Kurbenetes**, **Docker**, **RabbitMq**, Reverse Proxy using **Nginx** or **HAProxy** and handling all those thing in virtual machine handled by **Proxmox**.
+
 ## Year 2022
 
 ### [April 2022 ( •̀ ω •́ )✧](https://github.com/froxity/discoverix-sb/tree/main/04-2022)
