@@ -9,7 +9,8 @@ This is my personal log what I've learn so far during working at Discoverix Sdn 
 Since May 2022, I started to be involve in network infrastructure and devops operation. So currently I more likely to learn in **Kurbenetes**, **Docker**, **RabbitMq**, Reverse Proxy using **Nginx** or **HAProxy** and handling all those thing in virtual machine handled by **Proxmox**.
 
 ## Notion's Note
-[Learning and Testing](https://ahmadafiqazmi.notion.site/Learning-and-Testing-96604d1956e34f1d80446a07ea8f0c87)
+
+### [Learning and Testing](https://ahmadafiqazmi.notion.site/Learning-and-Testing-96604d1956e34f1d80446a07ea8f0c87)
 
 ## Year 2022
 
